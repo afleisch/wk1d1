@@ -1,4 +1,4 @@
-#calculating average
+
 
 arr = [1,2,3]
 
